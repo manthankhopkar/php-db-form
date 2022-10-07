@@ -60,3 +60,4 @@ function show_index($msg = null) {
     header('Location: index.php?error' . $msg);
   }
 }
+?>
