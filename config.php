@@ -1,8 +1,8 @@
 <?php
 
 // mysql configuration
-define('HOST', 'localhost');
+define('HOST', 'mysqlserverh.mysql.database.azure.com');
 define('DB', 'php-db-form');
-define('USER', 'root');
-define('PASS', 'root');
+define('USER', 'harshthakkar');
+define('PASS', 'Metatrader1234');
 ?>
